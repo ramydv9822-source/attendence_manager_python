@@ -79,9 +79,7 @@ Use responsibly and stay present. 😉
 ## 🙌 Author
 
 Made with 🌟 by **RAM RAMESH YADAV**
-Roll No.: 38
-Department: Computer Engineering
-College: \[DILKAP]
+ Department: Computer Engineering
 
 ---
 
